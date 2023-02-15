@@ -37,5 +37,3 @@ plt.legend(loc='upper right')
 plt.title('Training and Validation Loss')
 plt.show()
 
-<img src="images/task1_input.png" alt="task1 input" style="width:100px;"/>
-
